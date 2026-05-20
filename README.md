@@ -188,9 +188,7 @@ Feel free to fork this project and submit pull requests for improvements.
 
 This project is licensed under the **Apache License 2.0** - see the LICENSE file for details.
 
-## Author
 
-**Priya Bhatia** - [GitHub Profile](https://github.com/priya6971)
 
 ## Acknowledgments
 
