@@ -180,9 +180,6 @@ The project includes visualization plots for data analysis:
 - Deploy to cloud platform (AWS, Heroku, etc.)
 - Add more visualization and analytics dashboards
 
-## Contributing
-
-Feel free to fork this project and submit pull requests for improvements.
 
 ## License
 
